@@ -6,7 +6,7 @@ Welcome to the **DevOps Engineering Assessments** repository! This repository co
 
 ## Repository Structure
 
-```shh
+```sh
 .
 ├── Makefile                       # Centralized task runner for testing and validation
 ├── README.md                      # Overview of the repository
